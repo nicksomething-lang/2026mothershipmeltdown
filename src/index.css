@@ -3,7 +3,7 @@ body { margin: 0; font-family: system-ui, -apple-system, sans-serif; background:
 button { font: inherit; cursor: pointer; }
 
 .screen { max-width: 480px; margin: 0 auto; padding: 32px 20px; }
-.screen h1 { font-size: 24px; margin: 0 0 8px; }
+.screen h1 { font-size: 24px; margin: 0 0 8px; text-align: center; }
 .muted { color: #6c757d; }
 .small { font-size: 13px; }
 .error { color: #c92a2a; margin-top: 12px; }
