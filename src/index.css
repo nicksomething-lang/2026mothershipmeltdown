@@ -34,3 +34,5 @@ button { font: inherit; cursor: pointer; }
 .cat-label { display: block; font-weight: 600; font-size: 15px; margin-bottom: 4px; }
 .cat-desc { font-size: 13px; color: #6c757d; margin: 0 0 8px; }
 .cat-notes { width: 100%; font: inherit; font-size: 16px; padding: 10px; border: 1px solid #ced4da; border-radius: 6px; resize: vertical; }
+.top-header { display: flex; justify-content: center; padding: 16px 20px 8px; }
+.top-header-image { max-height: 80px; width: auto; display: block; }
